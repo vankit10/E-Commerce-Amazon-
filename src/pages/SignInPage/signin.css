@@ -1,0 +1,168 @@
+
+.mainScreen{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+.divv1{
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: none;
+    border-bottom: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 16px 16px;
+    
+   
+
+}
+.amazonLogo{
+    height:81px ;
+    width: 150px;
+    position: relative;
+    bottom: 80px;
+   
+}
+.signindiv{
+    border: 0.5px solid rgb(96, 95, 95);
+    height: 327px;
+    width: 350px;
+    position: relative;
+    bottom: 60px;
+    
+}
+.signin_head1{
+    font-size: 25px;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-weight: bolder;
+}
+.create{
+    height: 35px;
+    width: 350px;
+    background-color: rgb(220, 223, 228) !important;
+    border: 1px solid black !important;
+    border-radius: 5px;
+   
+}
+.head3{
+  font-size: 15px;
+  position: relative;
+  bottom: 30px;
+  opacity: 0.3;
+}
+.head2{
+    font-size: 15px;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    
+}
+.email,.password {
+    height: 30px;
+    width: 300px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border-color:rgb(231, 118, 0);
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.para{
+    font-size: 13px;
+    position: relative;
+    color: black;
+    font-weight:500;
+    top: 30px;
+    left: 20px;
+    margin-right: 30px;
+}
+.para span{
+    color: blue;
+    
+}
+.dropdown1{
+    position: relative;
+    background: transparent;
+    left: 15px;
+    top: 20px;
+}
+#dropdown1-basic{
+    height: 30px;
+    width: 150px;
+    text-align: left;
+    padding-top: 2px;
+    color: black;
+    top: 20px;
+    left: 12px;
+    position: relative;
+    background: transparent;
+}
+.drpdownn{
+    height: 50px;
+    width: 200px;
+    border: none !important;
+    top: -10px !important;
+    
+}
+.button_signin{
+    position: relative;
+    height: 40px;
+    width:310px;
+    left: 20px;
+    top: 30px;
+    border: 1px solid black  !important;
+    color: black !important;
+    background-color: rgb(240, 195, 83) !important;
+
+}
+.divv3{
+    width: 110px;
+    border: 1px solid black;
+    position: relative;
+    right: 120px;
+    bottom: 20px;
+    opacity: 0.3;
+
+}
+.divv4{
+    width: 110px;
+    border: 1px solid black;
+    position: relative;
+    bottom: 47px;
+    left: 120px;
+    opacity: 0.3;
+}
+.footer{
+    position: relative;
+    top: 20px;
+    font-size: 15px;
+    
+}
+.anchor1{
+    position: relative;
+    right: 50px;
+}
+.anchor2{
+    position: relative;
+    right: 10px;
+}
+.anchor3{
+    position: relative;
+    left: 30px;
+}
+.footer2{
+    position: relative;
+    font-size: 12px;
+    top: 20px;
+}

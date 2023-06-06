@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding: 0;
+    overflow-x: none;
+    overflow-y: none;
+}
+.main-screen11{
+    height: 100vh;
+    width: 98.9vw;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+
+}
+.main-ctn11{
+    height: 100vh;
+    width: 98.9vw;
+    position: relative;
+    top: 32px;
+    display: flex;
+    background-color: rgb(234, 237, 237);
+    gap: 40px;
+    flex-direction: column;
+}
+.cart_1{
+    height: 300px;
+    width: 98.9vw;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+   justify-content: center;
+   align-items: flex-start;
+    margin: 30px;
+ 
+}
+.cart_image{
+    height: 250px;
+    width:400px;
+    position: relative;
+    top: 45px;
+    left: 5px;
+}
+.cart_head{
+    position: relative;
+    left: 450px;
+    bottom: 135px;
+    font-family:  "Amazon Ember", Arial, sans-serif;
+    font-weight: 700;
+    color: rgb(15, 17, 17);
+    font-size: 24px;
+}
+.cart_button_sign_up{
+    position: relative;
+    left: 670px;
+    bottom: 165px;
+    border-radius: 10px;
+    height: 80px;
+    width: 130px;
+    border: none;
+    padding: 8px 15px;
+
+    
+
+}
+.cart_button_sign_in{
+    width: 200px;
+    height: 80px;
+    position: relative;
+    left: 450px;
+    bottom: 125px;
+    border-radius: 10px;
+    background-color: rgb(247, 202, 0);
+    border: none;
+    padding: 8px 15px;
+    
+
+}
